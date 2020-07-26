@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technology Used
+Material UI, Chart JS, React Hooks
+
+## API Used
+URL = 'https://covid19.mathdro.id/api'
+
 ## Available Scripts
 
 In the project directory, you can run:
